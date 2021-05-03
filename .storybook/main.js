@@ -8,10 +8,4 @@ module.exports = {
     "@storybook/addon-essentials",
     "@storybook/preset-create-react-app"
   ],
-  "refs": {
-    "settings": {
-      "title": "Settings Design System",
-      "url": "https://5ccbc373887ca40020446347-yldsqjoxzb.chromatic.com",
-    }
-  }
 }
